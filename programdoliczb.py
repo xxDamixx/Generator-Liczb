@@ -1,3 +1,4 @@
+#Autor: Damian Popławski
 import random
 
 tolerance = 0.1  # 10% tolerance
